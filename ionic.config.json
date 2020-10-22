@@ -1,5 +1,7 @@
 {
   "name": "LeitorQRCode",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
